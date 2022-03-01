@@ -1,6 +1,6 @@
 # Financial-AID-Application-For-Coursera
 
-1.Why are you applying for Financial Aid? (150 words minimum required)
+**1.Why are you applying for Financial Aid? (150 words minimum required)**
 
 Ans: I’m a student from a remote town in India and want to learn Data Science. I think it will be beneficial for my work.
  But I’ve no job of my own to carry the expenses to pay for the certificate of this course. I live only from my scholarship, 
@@ -11,7 +11,7 @@ it is very much difficult for me to gather such an amount of money for the certi
  Also, I intend to participate in Discussion Forums, which I have found to supplement my learning immensely in the other online courses I have taken on Coursera. I also plan to
  grade assignments that are peer-reviewed which I believe will be an invaluable learning opportunity. Please give me the chance to excel in my career.
  
- 2. How will taking this course help you achieve your career goals? (150 words minimum required)
+ **2. How will taking this course help you achieve your career goals? (150 words minimum required)**
 
 Ans: My main career goal is to learn every day. I really want to learn and to progress in my career. Programming requires constant learning and improvement. 
 Taking this course will help me to learn and study Data Science and also to implement it. It can help me advance in my knowledge. This course will help me
@@ -21,6 +21,6 @@ Taking this course will help me to learn and study Data Science and also to impl
  in where Data Science is going, what it does, and how to prepare for it. The Data Science course will help me achieve it to learn. Courses on Coursera helped me to greatly
  increase my programming knowledge in the past. So please please I request you to give me a scholarship for this course and I will be grateful
 
-3. If you answered no, please help us understand why.
+**3. If you answered no, please help us understand why.**
 
 Ans: I don’t have enough money to invest in my education, I can invest only my time now.
